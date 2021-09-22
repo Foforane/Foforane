@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thakgalang
-- 👀 I’m interested in Sloftware
+- 👀 I’m interested in Software
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me on Email thakgalang.cyber@gmail.com
